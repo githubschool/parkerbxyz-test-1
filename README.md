@@ -1,6 +1,6 @@
 # GitHub for Developers
 
-- Class Date: 
+- Class Date: August 23, 2021
 - Facilitator: @
 
 ## Talk to Us!!
