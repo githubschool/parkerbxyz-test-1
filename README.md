@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: 
-- Facilitator: @
+- Facilitator: @parkerbxyz
 
 ## Talk to Us!!
 
